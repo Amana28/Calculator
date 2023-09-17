@@ -1,4 +1,4 @@
-# Amana_Calculator
+# Calculator
 
 My first Android App. A Calculator!
 
